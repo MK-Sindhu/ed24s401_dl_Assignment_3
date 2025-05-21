@@ -225,4 +225,6 @@ tqdm>=4.56.0
 | Batch size     | 128    |
 
 ---
-
+### Here is the link for detailed wandb report
+https://api.wandb.ai/links/ed24s401-indian-institute-of-technology-madras/9erzzbig
+---
