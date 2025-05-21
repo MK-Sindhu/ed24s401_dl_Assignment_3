@@ -1,5 +1,4 @@
 # ed24s401_dl_Assignment_3
-# ed24s401_dl_Assignment_3
 # Seq2Seq Transliteration: Roman ↔ Devanagari
 
 This repository implements a character‐level sequence-to-sequence system for transliterating between Romanized text and Devanagari script.  It includes both a vanilla (no-attention) model and an additive-attention model, along with training, evaluation, and visualization scripts.
